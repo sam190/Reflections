@@ -1,0 +1,25 @@
+Question :How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Answer:
+it is very handy to spot a bug in a modified file by comparing it with old version.Git is a good tool to do it :) .
+
+NOTE -  diff : is a command in mac to find diffrence between two versions of a same file.
+--------------------------------------------------------------------------
+Question: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Ans: in web development it is very common to get a revert on changes that you made to a previos version so if you ahev an older version of file than it is very efficent to not to do the rework.
+Spotting bugs and producing a working file is more easier and less tedious.
+--------------------------------------------------------------------------
+Question :What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+Answer
+Prons: No excess version conrol n not too many files,
+Cons: In case you forget to do commit no version will be saved automatically and you might loose all ur info.
+Question: How might using version control make you more confident to make changes that could break something?
+ans: check out is the good option to go to the file with no bug and thn ompare the two ids to find the bug versions that are saved help you to quickly go back to file without bugs
+
+--------------------------------------------------------------------------Question:  What happens when you initialize a repository? Why do you need to do it?
+
+Ans : Intialize help to allocate meomry for our repository it makes it reay to make a library of file there.
+
+
+
+
+
