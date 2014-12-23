@@ -19,7 +19,8 @@ ans: check out is the good option to go to the file with no bug and thn ompare t
 
 Ans : Intialize help to allocate meomry for our repository it makes it reay to make a library of file there.
 
-
+\\\\\\\\\\\
+commit changes
 
 
 
